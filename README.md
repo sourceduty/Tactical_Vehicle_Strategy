@@ -30,6 +30,8 @@ The GPT also emphasizes a step-by-step approach to strategy development. It enga
 [Guns](https://github.com/sourceduty/Guns)
 <br>
 [Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
