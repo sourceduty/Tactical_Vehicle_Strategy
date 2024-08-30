@@ -11,6 +11,15 @@ In tactical situations, the GPT takes into consideration factors such as terrain
 The GPT also emphasizes a step-by-step approach to strategy development. It engages users through a series of multiple-choice questions to better understand the specific scenario and requirements, allowing for more precise and customized recommendations. By combining technical expertise with a focus on practical application, this GPT serves as a valuable tool for anyone involved in tactical vehicle operations.
 
 #
+### Educational Information Disclaimer
+
+The vehicle strategies and recommendations provided by this Tactical Vehicle Strategy GPT are intended for informational and educational purposes only. While every effort is made to ensure the accuracy and reliability of the information presented, it is important to note that real-world conditions and variables can significantly impact the effectiveness of these strategies. Users are advised to conduct their own assessments and consider all relevant factors, including environmental conditions, vehicle capabilities, and personnel readiness, before implementing any suggested maneuvers.
+
+This GPT is not a substitute for professional judgment or expert advice. It should not be used as the sole basis for decision-making in critical or high-stakes situations. Users are encouraged to consult with experienced professionals, refer to official guidelines, and utilize comprehensive training and planning when preparing for tactical operations involving air, water, or road vehicles. The developers and providers of this GPT disclaim any liability for damages, losses, or injuries that may occur as a result of using the information provided.
+
+By using this Tactical Vehicle Strategy GPT, you acknowledge and agree that the responsibility for the application of any strategies or recommendations lies solely with the user. The GPT is designed to support and enhance strategic thinking, not to replace it. Always prioritize safety, mission objectives, and the well-being of all involved personnel when utilizing vehicle maneuvering strategies.
+
+#
 ### Related Links
 
 [War Technology](https://github.com/sourceduty/War_Technology)
