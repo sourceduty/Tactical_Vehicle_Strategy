@@ -43,6 +43,8 @@ By using this Tactical Vehicle Strategy GPT, you acknowledge and agree that the 
 [Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
 <br>
 [Military Operations](https://github.com/sourceduty/Military_Operations)
+<br>
+[Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
