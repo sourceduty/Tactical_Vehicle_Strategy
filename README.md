@@ -22,8 +22,6 @@ By using this Tactical Vehicle Strategy GPT, you acknowledge and agree that the 
 #
 ### Related Links
 
-[War Technology](https://github.com/sourceduty/War_Technology)
-<br>
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [Russo-Ukrainain_War](https://github.com/sourceduty/Russo-Ukrainian_War)
