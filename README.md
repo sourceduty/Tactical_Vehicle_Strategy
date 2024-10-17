@@ -22,6 +22,8 @@ Moreover, Tactical Vehicle Strategy GPT can be used to simulate various stunt sc
 #
 ### Educational Information Disclaimer
 
+![Crash](https://github.com/user-attachments/assets/c4785878-f04c-4db8-aeb1-e05cd6e58c93)
+
 The vehicle strategies and recommendations provided by this Tactical Vehicle Strategy GPT are intended for informational and educational purposes only. While every effort is made to ensure the accuracy and reliability of the information presented, it is important to note that real-world conditions and variables can significantly impact the effectiveness of these strategies. Users are advised to conduct their own assessments and consider all relevant factors, including environmental conditions, vehicle capabilities, and personnel readiness, before implementing any suggested maneuvers.
 
 This GPT is not a substitute for professional judgment or expert advice. It should not be used as the sole basis for decision-making in critical or high-stakes situations. Users are encouraged to consult with experienced professionals, refer to official guidelines, and utilize comprehensive training and planning when preparing for tactical operations involving air, water, or road vehicles. The developers and providers of this GPT disclaim any liability for damages, losses, or injuries that may occur as a result of using the information provided.
