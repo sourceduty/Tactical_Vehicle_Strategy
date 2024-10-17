@@ -13,7 +13,7 @@ The GPT also emphasizes a step-by-step approach to strategy development. It enga
 #
 ### Stunt Driving
 
-![Stunts](https://github.com/user-attachments/assets/732c53a0-cac8-442b-9197-5dce169ebe1f)
+![Stunts](https://github.com/user-attachments/assets/8eb44486-069c-4013-8317-339cd8e5eb1f)
 
 Using the Tactical Vehicle Strategy GPT for stunt driving maneuvers can be incredibly beneficial for planning and executing complex driving sequences safely and effectively. This GPT can provide detailed insights into the physics of vehicle motion, including drift angles, acceleration, and braking distances, tailored specifically to the requirements of high-speed stunts. By analyzing the unique capabilities of the stunt vehicle – whether it’s a high-performance sports car, a motorcycle, or a heavier SUV – it can recommend precise timing for turns, optimal speeds for jumps, and best practices for controlled slides. It can also offer scenario-based analysis, helping stunt coordinators anticipate potential hazards and adjust maneuvers to minimize risk.
 
