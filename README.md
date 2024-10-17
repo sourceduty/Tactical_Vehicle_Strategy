@@ -11,7 +11,7 @@ In tactical situations, the GPT takes into consideration factors such as terrain
 The GPT also emphasizes a step-by-step approach to strategy development. It engages users through a series of multiple-choice questions to better understand the specific scenario and requirements, allowing for more precise and customized recommendations. By combining technical expertise with a focus on practical application, this GPT serves as a valuable tool for anyone involved in tactical vehicle operations.
 
 #
-### Stund Driving
+### Stunt Driving
 
 <img width="1430" alt="Two Wheels" src="https://github.com/user-attachments/assets/1a4ceb57-38c4-4e0a-b770-c03fa21c075b">
 
