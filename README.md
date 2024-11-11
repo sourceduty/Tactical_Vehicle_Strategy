@@ -54,6 +54,8 @@ By using this Tactical Vehicle Strategy GPT, you acknowledge and agree that the 
 [Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 <br>
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
+<br>
+[Private Military](https://github.com/sourceduty/Private_Military)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
